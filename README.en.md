@@ -10,8 +10,8 @@ They're what we use at [Warasoft](https://warasoft.com) for our Instagram accoun
 
 | Skill | Style | Example |
 |---|---|---|
-| [`reel-vectorial`](plugins/reel-vectorial/skills/reel-vectorial/SKILL.md) | Everything drawn in code (SVG/HTML in Remotion), no image generator | [@datorarito](https://www.instagram.com/datorarito/) |
-| [`reel-diorama`](plugins/reel-diorama/skills/reel-diorama/SKILL.md) | Night-time 3D dioramas generated locally (Z-Image Turbo) with a 2.5D depth camera (Depth Pro) | [@sal.delarueda](https://www.instagram.com/sal.delarueda/) |
+| [`reel-vectorial`](plugins/reel-vectorial/skills/reel-vectorial/SKILL.md) | Everything drawn in code (SVG/HTML in Remotion), no image generator | [Dato Rarito](https://www.youtube.com/@DatoRarito) (YouTube) |
+| [`reel-diorama`](plugins/reel-diorama/skills/reel-diorama/SKILL.md) | Night-time 3D dioramas generated locally (Z-Image Turbo) with a 2.5D depth camera (Depth Pro) | [@sal.delarueda](https://www.instagram.com/sal.delarueda/) (Instagram) |
 
 The skills are written in Spanish; Claude follows them in whatever language you write to it.
 

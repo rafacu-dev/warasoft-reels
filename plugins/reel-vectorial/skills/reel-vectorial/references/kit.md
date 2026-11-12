@@ -151,4 +151,4 @@ Lo que solo necesita un video se dibuja en su `.tsx` (o en `src/videos/<carpeta>
 
 Ideas que suelen hacer falta y se dibujan igual: el plano subjetivo de una pierna o una mano vistas desde arriba, un holograma del cuerpo o del cerebro, un dial, una cifra o letra trazada a mano (`catmull` + `partial` + `LightInk`), una taza con vapor, un antifaz como `extraHead` del `Personaje`, una carretera y un volante, una llave y una cerradura, moléculas de fondo, un mapa de neón o una casa en corte lateral. Si una pieza se repite en otro video, pásala al kit de la skill (`assets/plantilla-proyecto/src/kit/`) y sincroniza las cuentas con `montar-cuenta.py --actualizar`.
 
-Para ver piezas así en reels terminados, mira [@datorarito](https://www.instagram.com/datorarito/), donde nació el kit.
+Para ver piezas así en reels terminados, mira [Dato Rarito](https://www.youtube.com/@DatoRarito) (YouTube), donde nació el kit.

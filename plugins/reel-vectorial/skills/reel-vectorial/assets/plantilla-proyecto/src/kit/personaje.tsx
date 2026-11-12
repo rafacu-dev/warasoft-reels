@@ -1,7 +1,7 @@
 // Personaje de dibujos (kit vectorial): cabeza con volumen, cejas, bocas expresivas, ojos que miran,
 // brazos articulados (cinemática inversa), piernas de palito con zapatillas, taburete y mano que señala/pulsa.
 // Sale con los colores del protagonista de la cuenta (PROTA en brand.tsx); cada prop los puede cambiar
-// para secundarios. Nació como RARITO, la mascota de @datorarito: en otras cuentas, su propio protagonista.
+// para secundarios. Nació como RARITO, la mascota de Dato Rarito (YouTube): en otras cuentas, su propio protagonista.
 // Úsalo en planos de reacción y de "esto eres tú"; lo que hace tu cuerpo va mejor en plano subjetivo.
 import React from "react";
 import { useCurrentFrame } from "remotion";

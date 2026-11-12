@@ -10,8 +10,8 @@ Son las que usamos en [Warasoft](https://warasoft.com) para nuestras cuentas de 
 
 | Skill | Estilo | Ejemplo |
 |---|---|---|
-| [`reel-vectorial`](plugins/reel-vectorial/skills/reel-vectorial/SKILL.md) | Todo dibujado en código (SVG/HTML en Remotion), sin generador de imágenes | [@datorarito](https://www.instagram.com/datorarito/) |
-| [`reel-diorama`](plugins/reel-diorama/skills/reel-diorama/SKILL.md) | Dioramas 3D nocturnos generados en local (Z-Image Turbo) con cámara 2.5D por profundidad (Depth Pro) | [@sal.delarueda](https://www.instagram.com/sal.delarueda/) |
+| [`reel-vectorial`](plugins/reel-vectorial/skills/reel-vectorial/SKILL.md) | Todo dibujado en código (SVG/HTML en Remotion), sin generador de imágenes | [Dato Rarito](https://www.youtube.com/@DatoRarito) (YouTube) |
+| [`reel-diorama`](plugins/reel-diorama/skills/reel-diorama/SKILL.md) | Dioramas 3D nocturnos generados en local (Z-Image Turbo) con cámara 2.5D por profundidad (Depth Pro) | [@sal.delarueda](https://www.instagram.com/sal.delarueda/) (Instagram) |
 
 ![reel-vectorial](docs/img/galeria-vectorial.webp)
 ![reel-diorama](docs/img/galeria-diorama.webp)

@@ -1,6 +1,6 @@
 // Kit vectorial (skill reel-vectorial) · efectos y piezas gráficas: curvas, tiempos, rebotes, temblor, giros,
 // estelas tipo cometa, tinta de luz, flechas de giro, chispas, estallidos, líneas de impacto, píldoras y fondo
-// de neón. Todo en SVG; los brillos usan filtros CSS (drop-shadow / blur). Nació en los reels de @datorarito.
+// de neón. Todo en SVG; los brillos usan filtros CSS (drop-shadow / blur). Nació en los videos de Dato Rarito (YouTube).
 // La paleta con significado (PAL) es de cada cuenta y vive en brand.tsx.
 import React, { useId } from "react";
 import { Easing, interpolate, random, spring, useCurrentFrame, useVideoConfig } from "remotion";

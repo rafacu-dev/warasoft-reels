@@ -9,7 +9,7 @@ Antes de escribir, revisa `guiones/`, `videos/finales/` y `ideas.md` de la cuent
 4. **Un respiro antes de la revelación:** la música cae casi a cero en los 0,5 s previos (`respiros` en `motor.md`) y el primer sonido después es el impacto de la revelación.
 5. **Cifras, no adjetivos:** "el cerebro grande" no es una indicación; "el cerebro ocupa el 60 % del alto, con luz dorada desde arriba" sí.
 
-## La fórmula (la de @datorarito)
+## La fórmula (la de Dato Rarito, en YouTube)
 1. **Frase 1 = pregunta + lo raro ya en pantalla en el frame 0.** La escena del gancho muestra la anomalía sin necesidad de sonido: tu pie girando al revés mientras tu mano dibuja un 6, o la tostada ya en el aire boca abajo (`Demo01`).
 2. **Cada frase se ilustra justo cuando se oye.** Si la voz dice "tu cerebro", se ve el cerebro en esa palabra, no un segundo después.
 3. **La historia va en segunda persona cuando el espectador puede hacerlo** ("Siéntate y gira el pie…"). El reto se hace mientras se mira, y eso retiene.

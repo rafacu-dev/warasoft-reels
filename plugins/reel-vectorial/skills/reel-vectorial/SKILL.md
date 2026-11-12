@@ -1,6 +1,6 @@
 ---
 name: reel-vectorial
-description: Produce reels verticales de motion graphics hechos solo con gráficos en código (SVG/HTML en Remotion, sin generador de imágenes), 1080×1920, 30 fps, 35–55 s, de principio a fin. Guion con gancho-pregunta y bucle, voz IA de ElevenLabs con tiempos por palabra (o voz simulada sin créditos), escenas animadas con el kit (escenarios con luz, personaje que actúa, plano subjetivo, diagramas de neón, móvil de "Envíaselo"), subtítulos palabra a palabra, efectos graves, música CC BY, portada y render por una cola que no satura el ordenador. También crea una cuenta nueva con el proyecto de Remotion, los scripts y un video de ejemplo. Úsala cuando pidan un reel o short "vectorial", "con gráficos", "dibujado", "animado en código", "sin imágenes generadas" o "de motion graphics", un video como los de @datorarito, montar una cuenta para reels así, o cambiar guion, voz, escenas, fotogramas, render o portada de uno, aunque no digan "skill". Si el reel usa imágenes generadas por IA, no es esta skill.
+description: Produce reels verticales de motion graphics hechos solo con gráficos en código (SVG/HTML en Remotion, sin generador de imágenes), 1080×1920, 30 fps, 35–55 s, de principio a fin. Guion con gancho-pregunta y bucle, voz IA de ElevenLabs con tiempos por palabra (o voz simulada sin créditos), escenas animadas con el kit (escenarios con luz, personaje que actúa, plano subjetivo, diagramas de neón, móvil de "Envíaselo"), subtítulos palabra a palabra, efectos graves, música CC BY, portada y render por una cola que no satura el ordenador. También crea una cuenta nueva con el proyecto de Remotion, los scripts y un video de ejemplo. Úsala cuando pidan un reel o short "vectorial", "con gráficos", "dibujado", "animado en código", "sin imágenes generadas" o "de motion graphics", un video como los de Dato Rarito (YouTube), montar una cuenta para reels así, o cambiar guion, voz, escenas, fotogramas, render o portada de uno, aunque no digan "skill". Si el reel usa imágenes generadas por IA, no es esta skill.
 ---
 
 # Reels vectoriales (gráficos en código)
@@ -13,7 +13,7 @@ Un reel de este kit es un **mini-cartoon que se mueve sin parar**:
 - un último plano que vuelve al primero (bucle);
 - grano, viñeta y temblor en los golpes, para que no parezca una plantilla.
 
-**Ejemplo público del formato:** [@datorarito](https://www.instagram.com/datorarito/) en Instagram. **Ejemplo en código:** el video `Demo01` que trae cada cuenta nueva (`src/videos/Demo01.tsx`): gancho, cámara lenta, sello tachado, diagrama, personaje, móvil de la CTA y bucle. Cuando dudes de cómo se hace algo, míralo ahí.
+**Ejemplo público del formato:** [Dato Rarito](https://www.youtube.com/@DatoRarito), en YouTube. **Ejemplo en código:** el video `Demo01` que trae cada cuenta nueva (`src/videos/Demo01.tsx`): gancho, cámara lenta, sello tachado, diagrama, personaje, móvil de la CTA y bucle. Cuando dudes de cómo se hace algo, míralo ahí.
 
 **Rutas** (el proyecto puede tener espacios: pon las rutas siempre entre comillas):
 - `<S>` = la carpeta de esta skill. Claude Code la muestra al cargarla ("Base directory for this skill"). Instalada como plugin es `${CLAUDE_PLUGIN_ROOT}/skills/reel-vectorial`; copiada a mano, `~/.claude/skills/reel-vectorial`. Si no la ves, búscala: `find ~/.claude -path "*reel-vectorial/scripts/nuevo-video.py"`.
