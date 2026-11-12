@@ -1,0 +1,10 @@
+{
+  "name": "reel-vectorial",
+  "version": "1.0.0",
+  "description": "Reels 1080×1920 hechos solo con gráficos en código (SVG/HTML en Remotion): guion con gancho, voz IA con tiempos por palabra, escenas animadas, subtítulos palabra a palabra, música y render.",
+  "author": { "name": "Warasoft", "url": "https://warasoft.com" },
+  "homepage": "https://warasoft.com/es/blog/",
+  "repository": "https://github.com/rafacu-dev/warasoft-reels",
+  "license": "MIT",
+  "keywords": ["remotion", "reels", "instagram", "tiktok", "motion-graphics", "video"]
+}

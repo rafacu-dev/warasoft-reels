@@ -1,0 +1,10 @@
+{
+  "name": "reel-diorama",
+  "version": "1.0.0",
+  "description": "Reels 1080×1920 estilo diorama nocturno: escenas generadas en local con Z-Image Turbo, cámara 2.5D por profundidad, voz IA, subtítulos palabra a palabra y render en Remotion.",
+  "author": { "name": "Warasoft", "url": "https://warasoft.com" },
+  "homepage": "https://warasoft.com/es/blog/",
+  "repository": "https://github.com/rafacu-dev/warasoft-reels",
+  "license": "MIT",
+  "keywords": ["remotion", "reels", "instagram", "tiktok", "motion-graphics", "video"]
+}

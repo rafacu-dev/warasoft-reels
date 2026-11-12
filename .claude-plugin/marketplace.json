@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "warasoft-reels",
+  "description": "Skills de Claude Code para producir reels verticales de motion graphics de principio a fin: guion, voz, escenas, subtítulos, música y render.",
+  "owner": {
+    "name": "Warasoft",
+    "url": "https://warasoft.com"
+  },
+  "plugins": [
+    {
+      "name": "reel-vectorial",
+      "description": "Reels 1080×1920 hechos solo con gráficos en código (SVG/HTML en Remotion): guion con gancho, voz IA con tiempos por palabra, escenas animadas, subtítulos palabra a palabra, música y render.",
+      "source": "./plugins/reel-vectorial",
+      "category": "productivity",
+      "homepage": "https://warasoft.com/es/blog/"
+    },
+    {
+      "name": "reel-diorama",
+      "description": "Reels 1080×1920 estilo diorama nocturno: escenas generadas en local con Z-Image Turbo, cámara 2.5D por profundidad, voz IA, subtítulos palabra a palabra y render en Remotion.",
+      "source": "./plugins/reel-diorama",
+      "category": "productivity",
+      "homepage": "https://warasoft.com/es/blog/"
+    }
+  ]
+}

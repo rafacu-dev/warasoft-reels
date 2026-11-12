@@ -1,0 +1,361 @@
+[
+ {
+  "linea": 1,
+  "texto": "¿Una ciudad entera que nadie ha construido?",
+  "duracion": 2.583,
+  "palabras": [
+   {
+    "text": "¿Una",
+    "start": 0.0,
+    "end": 0.202
+   },
+   {
+    "text": "ciudad",
+    "start": 0.202,
+    "end": 0.576
+   },
+   {
+    "text": "entera",
+    "start": 0.576,
+    "end": 0.95
+   },
+   {
+    "text": "que",
+    "start": 0.95,
+    "end": 1.152
+   },
+   {
+    "text": "nadie",
+    "start": 1.152,
+    "end": 1.468
+   },
+   {
+    "text": "ha",
+    "start": 1.468,
+    "end": 1.614
+   },
+   {
+    "text": "construido?",
+    "start": 1.614,
+    "end": 2.216
+   }
+  ]
+ },
+ {
+  "linea": 2,
+  "texto": "Escribes el guion, una frase por línea.",
+  "duracion": 2.593,
+  "palabras": [
+   {
+    "text": "Escribes",
+    "start": 0.0,
+    "end": 0.488
+   },
+   {
+    "text": "el",
+    "start": 0.488,
+    "end": 0.633
+   },
+   {
+    "text": "guion,",
+    "start": 0.633,
+    "end": 0.95
+   },
+   {
+    "text": "una",
+    "start": 1.188,
+    "end": 1.39
+   },
+   {
+    "text": "frase",
+    "start": 1.39,
+    "end": 1.706
+   },
+   {
+    "text": "por",
+    "start": 1.706,
+    "end": 1.909
+   },
+   {
+    "text": "línea.",
+    "start": 1.909,
+    "end": 2.225
+   }
+  ]
+ },
+ {
+  "linea": 3,
+  "texto": "Tu Mac pinta cada escena como una maqueta nocturna.",
+  "duracion": 3.045,
+  "palabras": [
+   {
+    "text": "Tu",
+    "start": 0.0,
+    "end": 0.145
+   },
+   {
+    "text": "Mac",
+    "start": 0.145,
+    "end": 0.348
+   },
+   {
+    "text": "pinta",
+    "start": 0.348,
+    "end": 0.664
+   },
+   {
+    "text": "cada",
+    "start": 0.664,
+    "end": 0.923
+   },
+   {
+    "text": "escena",
+    "start": 0.923,
+    "end": 1.297
+   },
+   {
+    "text": "como",
+    "start": 1.297,
+    "end": 1.556
+   },
+   {
+    "text": "una",
+    "start": 1.556,
+    "end": 1.759
+   },
+   {
+    "text": "maqueta",
+    "start": 1.759,
+    "end": 2.189
+   },
+   {
+    "text": "nocturna.",
+    "start": 2.189,
+    "end": 2.677
+   }
+  ]
+ },
+ {
+  "linea": 4,
+  "texto": "Y la cámara entra en ella con profundidad de verdad.",
+  "duracion": 3.076,
+  "palabras": [
+   {
+    "text": "Y",
+    "start": 0.0,
+    "end": 0.088
+   },
+   {
+    "text": "la",
+    "start": 0.088,
+    "end": 0.233
+   },
+   {
+    "text": "cámara",
+    "start": 0.233,
+    "end": 0.607
+   },
+   {
+    "text": "entra",
+    "start": 0.607,
+    "end": 0.923
+   },
+   {
+    "text": "en",
+    "start": 0.923,
+    "end": 1.069
+   },
+   {
+    "text": "ella",
+    "start": 1.069,
+    "end": 1.328
+   },
+   {
+    "text": "con",
+    "start": 1.328,
+    "end": 1.53
+   },
+   {
+    "text": "profundidad",
+    "start": 1.53,
+    "end": 2.189
+   },
+   {
+    "text": "de",
+    "start": 2.189,
+    "end": 2.335
+   },
+   {
+    "text": "verdad.",
+    "start": 2.335,
+    "end": 2.708
+   }
+  ]
+ },
+ {
+  "linea": 5,
+  "texto": "Los subtítulos saltan palabra a palabra, al ritmo de la voz.",
+  "duracion": 3.688,
+  "palabras": [
+   {
+    "text": "Los",
+    "start": 0.0,
+    "end": 0.202
+   },
+   {
+    "text": "subtítulos",
+    "start": 0.202,
+    "end": 0.804
+   },
+   {
+    "text": "saltan",
+    "start": 0.804,
+    "end": 1.178
+   },
+   {
+    "text": "palabra",
+    "start": 1.178,
+    "end": 1.609
+   },
+   {
+    "text": "a",
+    "start": 1.609,
+    "end": 1.697
+   },
+   {
+    "text": "palabra,",
+    "start": 1.697,
+    "end": 2.127
+   },
+   {
+    "text": "al",
+    "start": 2.365,
+    "end": 2.511
+   },
+   {
+    "text": "ritmo",
+    "start": 2.511,
+    "end": 2.827
+   },
+   {
+    "text": "de",
+    "start": 2.827,
+    "end": 2.972
+   },
+   {
+    "text": "la",
+    "start": 2.972,
+    "end": 3.118
+   },
+   {
+    "text": "voz.",
+    "start": 3.118,
+    "end": 3.32
+   }
+  ]
+ },
+ {
+  "linea": 6,
+  "texto": "Los datos se dibujan solos, barra a barra.",
+  "duracion": 2.738,
+  "palabras": [
+   {
+    "text": "Los",
+    "start": 0.0,
+    "end": 0.202
+   },
+   {
+    "text": "datos",
+    "start": 0.202,
+    "end": 0.519
+   },
+   {
+    "text": "se",
+    "start": 0.519,
+    "end": 0.664
+   },
+   {
+    "text": "dibujan",
+    "start": 0.664,
+    "end": 1.095
+   },
+   {
+    "text": "solos,",
+    "start": 1.095,
+    "end": 1.411
+   },
+   {
+    "text": "barra",
+    "start": 1.649,
+    "end": 1.966
+   },
+   {
+    "text": "a",
+    "start": 1.966,
+    "end": 2.054
+   },
+   {
+    "text": "barra.",
+    "start": 2.054,
+    "end": 2.37
+   }
+  ]
+ },
+ {
+  "linea": 7,
+  "texto": "Envíaselo a quien dice que no tiene tiempo para editar.",
+  "duracion": 3.247,
+  "palabras": [
+   {
+    "text": "Envíaselo",
+    "start": 0.0,
+    "end": 0.545
+   },
+   {
+    "text": "a",
+    "start": 0.545,
+    "end": 0.633
+   },
+   {
+    "text": "quien",
+    "start": 0.633,
+    "end": 0.95
+   },
+   {
+    "text": "dice",
+    "start": 0.95,
+    "end": 1.209
+   },
+   {
+    "text": "que",
+    "start": 1.209,
+    "end": 1.411
+   },
+   {
+    "text": "no",
+    "start": 1.411,
+    "end": 1.556
+   },
+   {
+    "text": "tiene",
+    "start": 1.556,
+    "end": 1.873
+   },
+   {
+    "text": "tiempo",
+    "start": 1.873,
+    "end": 2.246
+   },
+   {
+    "text": "para",
+    "start": 2.246,
+    "end": 2.506
+   },
+   {
+    "text": "editar.",
+    "start": 2.506,
+    "end": 2.879
+   }
+  ]
+ }
+]
